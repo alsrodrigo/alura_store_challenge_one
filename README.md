@@ -54,4 +54,4 @@ O objetivo foi analisar os dados de vendas de quatro lojas da **Alura_Store** e 
 
 👨‍💻 **Rodrigo Lopes**  
 📚 Projeto do **Challenge ONE — Data Science | Alura + Oracle Next Education**  
-🔗 [LinkedIn](https://www.linkedin.com/)
+🔗 [LinkedIn](https://www.linkedin.com/alsrodrigo)
