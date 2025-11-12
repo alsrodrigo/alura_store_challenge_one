@@ -46,7 +46,7 @@ O objetivo foi analisar os dados de vendas de quatro lojas da **Alura_Store** e 
 
 ## 🛠️ Tecnologias
 
-🐍 Python • 🧮 Pandas • 📊 Matplotlib • ☁️ Google Colab  
+🐍 Python • 🐼 Pandas • 📊 Matplotlib • ☁️ Google Colab  
 
 ---
 
